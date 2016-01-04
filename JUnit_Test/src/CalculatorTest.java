@@ -12,6 +12,8 @@ public class CalculatorTest {
 	@Test
 	public void testAdd() {
 		calculator.add(1);
+		//注释
+		//我又加了一个注释
 		System.out.println(calculator.getResult());
 	}
 
