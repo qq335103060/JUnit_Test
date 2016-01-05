@@ -1,0 +1,4 @@
+
+ <input type="text" id="sralcEndroom"  name="storageRoomApp.sralcEnd" onfocus="WdatePicker({dateFmt:'yyyy-MM-dd HH:mm:ss'})" class="Wdate" />
+
+//<script type="text/javascript" src="myDate/WdatePicker.js"></script>
